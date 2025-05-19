@@ -67,7 +67,5 @@ C -> c
 - La gramática debe estar en forma adecuada para los parsers (sin recursión izquierda para LL(1), etc.)
 - La interfaz es por consola con capacidades básicas
 
-## Autor
 
-[Tu nombre o información de contacto]
 
